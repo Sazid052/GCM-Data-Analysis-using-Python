@@ -1,4 +1,4 @@
-# Climate Data Analysis using Python
+# GCM Data Analysis using Python
 
 This repository contains Python code for analyzing and visualizing climate data from CMIP6 model outputs. The code processes netCDF files to extract temperature data, clips it using a shapefile for specific geographic regions, and generates various plots such as temperature distribution, location-wise mean temperature, spatial temperature trends, and time series data.
 
