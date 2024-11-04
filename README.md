@@ -13,8 +13,6 @@ To run this code, you need to install the following Python libraries:
 - `matplotlib`
 - `numpy`
 
-You can install these packages using pip:
-```bash
 ## Data Description
 - **Input Data**: CMIP6 netCDF files containing temperature variables (`tasmax`), with spatial dimensions (longitude, latitude) and a time dimension.
 - **Shapefiles**: Used to clip the data for a specific geographic region, such as the Dhaka or Chattogram division in Bangladesh.
